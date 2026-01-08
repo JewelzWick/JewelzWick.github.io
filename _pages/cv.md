@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+Immokalee High School Graduate Class of 2010 
+CNA Certification from I-Tech 2015  
+I-Tech Computer Systems and Infromation Technology from 2024-2025
+I-Tech Cybersecurity from 2025-2026
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Florida Window Geeks- Lead Window Installer
+  Role: Install Windows and Sliding Glass Doors
+    -Top Tier Customer Service
+    -Professional Installation 
+    -Recycle
+Storm Smart- Lead Window Installer
+  Role:Install Windows and Sliding Glass Doors
+     -Top Tier Customer Serivce 
+     -Professional Installation
+     -Recycle 
+     -Document job completion via apps and pictures
+     -Coordinate with inspectors following laws and codes 
+Stone Warehouse- Forklift opperator and salesmen
+Florida Specialties- Forklift opperator/ shipping & recieving clerk 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
